@@ -21,7 +21,7 @@ While contemporary set theory pivots toward the Weak Extender Model Conjecture a
 
 ### Repository Architecture
 
-text
+```text
 Woodin-Mouse/
 ├── .github/
 │   └── workflows/
@@ -44,6 +44,7 @@ Woodin-Mouse/
 │   └── run_runtime_demo.sh        # Executable verification telemetry output
 ├── LICENSE                        # CC BY-NC-ND 4.0 International
 └── README.md                      # Dual-Horizon specification & ontological telemetry
+```
 
 ---
 
