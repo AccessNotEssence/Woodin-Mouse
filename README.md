@@ -52,12 +52,13 @@ Woodin-Mouse/
 
 This kernel enforces a strict distinction between the fibrant universe of high-dimensional reasoning paths (∞-groupoids in Cubical Agda) and the strict combinatorial scaffolding (Lean 4) governing elementary embeddings j : M → N.
 
-text
+```text
 Checking Step 0 -> 1: Embedding verified. Invariant kappa preserved.
 Checking Step 1 -> 2: Iteration branch compared. Well-foundedness holds.
 Checking Step 2 -> 3: Transitive closure validated. Q.E.D.
 Checking Heartbeat : Co-iteration timeout watcher active (Bound: 1000 ticks).
 Verification complete.
+```
 
 | Layer / Module | Verified Mechanized Scope (Machine-Checked) | Postulated Set-Theoretic Frontier (Open Gravity Well) |
 | :--- | :--- | :--- |
