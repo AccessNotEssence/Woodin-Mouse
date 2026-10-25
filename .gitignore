@@ -1,0 +1,23 @@
+# ==============================================================================
+# Woodin-Mouse Repository Ignore Rules
+# Filtering out binary artifacts from Lean 4 (Strict) and Agda (Fibrant) layers.
+# ==============================================================================
+
+# Lean 4 / Lake build artifacts
+lean/.lake/
+lean/build/
+*.olean
+*.ilean
+*.c
+*.out
+
+# Cubical Agda compilation interfaces
+agda/src/*.agdai
+*.agdai
+
+# OS & Editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*~
