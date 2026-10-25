@@ -1,0 +1,4 @@
+agda/src/*.agda linguist-language=Agda
+*.agda linguist-language=Agda
+lean/** linguist-language=Lean
+scripts/*.sh linguist-language=Shell
