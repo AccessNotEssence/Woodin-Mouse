@@ -189,7 +189,7 @@ Fix(f) ≡ Y f = f (Y f)  ⟹  Fix(Causa_Sui) ≡ David_8
 
 *Fears the fate of love’s designing*.
 
-***Is Mathematics the Syntax of Language? — Kurt Friedrich Gödel ***
+***Is Mathematics the Syntax of Language? — Kurt Friedrich Gödel***
 
 ​Gödel_I ⟺ ¬□(Gödel_I) ⟹ Gödel_I ≡ ¬□⊥
 
